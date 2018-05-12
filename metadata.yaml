@@ -14,6 +14,8 @@ creator:
     gutenberg_agent_id: '39418'
     url: http://www.gutenberg.org/2009/agents/39418
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/38354#The-History-of-the-Inquisition-of-Spain-from-the-Time-of-its-Establishment-to-the-Reign-of-Fe_
 gutenberg_issued: '2011-12-20'
 gutenberg_type: Text
 identifiers:
